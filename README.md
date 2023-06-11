@@ -1,6 +1,3 @@
-
----
-[Blog](https://velog.io/@100tick)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mainfn&show_icons=true&theme=rose_pine)
 ---
