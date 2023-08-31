@@ -1,4 +1,4 @@
-### Yap Yap <span><img src="https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif" width="27" height="27"><span>
+### Yap Yap <span><img src="https://github.com/mainfn/mainfn/blob/main/yapyap.gif?raw=true" width="27" height="27"><span>
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mainfn&show_icons=true&theme=rose_pine)
 ---
@@ -6,3 +6,4 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainfn&layout=compact&theme=rose_pine)
+
